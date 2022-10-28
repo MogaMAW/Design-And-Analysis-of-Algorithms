@@ -15,6 +15,7 @@ def main():           # O(1)
     print((list,value))    # O(1)
 main()      # O(1)
 
+# TIME COMPLEXITY: O(1) + O(n) + O(1) +O(1) + O(1) + O(1)+O(1) =O(n)
 
 # the worst time complexity of the above sequential search is O(n)
 # sequential search is at worst case complexity when either the last element was the element being searched for or when the element being searched for is not in the list
