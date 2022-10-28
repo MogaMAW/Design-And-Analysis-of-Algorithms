@@ -1,5 +1,5 @@
 
-#Best case
+#Best case of a selection sort 
 #Best case scenario of a selection sort is when the elements in the list are already in order or are sorted.
 def Selection(list):
     n =len(list)
