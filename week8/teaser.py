@@ -1,0 +1,3 @@
+def linearSerach(list,value):
+    
+    
