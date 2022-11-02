@@ -1,5 +1,6 @@
 """
 Find the min and max that can be calculated by summing the four of the five integers
+we are going to use an array
 
 We are using an array of values [4, 3, 1, 6, 7]
 
