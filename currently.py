@@ -24,7 +24,7 @@ class Soduku:
                 else:
                     print(str(self.board[i][j]) + " ", end="")
 
-                    #####The complexity of this function is O(n^2)#####
+                    #####The complexity of this function is O(n^2)#######
     def get_null(self):
         for i in range(len(self.board)):
             for j in range(len(self.board[0])):
