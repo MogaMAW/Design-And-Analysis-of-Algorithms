@@ -43,7 +43,7 @@ class Soduku:
             if self.board[i][pos[1]] == num and pos[0] != i:#Check if the number is in the column and if it is not in the same row as the position
                 return False #return false if the number is in the column
             
-        # Check box
+        # Check box.
         box_x = pos[1] // 3#find the box the position is in
         box_y = pos[0] // 3#find the box the position is in
         for i in range(box_y*3, box_y*3 + 3):#i is the row of the board so if i is 0 then we are at the first row
