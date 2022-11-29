@@ -1,4 +1,4 @@
-#solving a soduku using oop.
+#solving a soduku using oop
 class Soduku:
     def __init__(self): #initialize the soduku
         self.board = [
