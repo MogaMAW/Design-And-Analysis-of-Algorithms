@@ -7,7 +7,7 @@ def merge_sort(arr):
     Test_check =0
     i=1
     
-    if len(arr) <= 1: #to check if the list has elements in it.
+    if len(arr) <= 1: # to check if the list has elements in it.
         return arr
     while i < len(arr):
         if(arr[i]<arr[i-1]):
