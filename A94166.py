@@ -1,6 +1,6 @@
 
 #class work assignment 
-#1. Merge sort optimization to stop dividing sub-arrays when one side of the array is already sorted
+#1.Merge sort optimization to stop dividing sub-arrays when one side of the array is already sorted
 
 G = [38,27,43,3,9,82,10]
 def merge_sort(arr):
