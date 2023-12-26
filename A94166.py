@@ -1,4 +1,3 @@
-
 #class work assignment 
 #1.Merge sort optimization to stop dividing sub-arrays when one side of the array is already sorted
 
