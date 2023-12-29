@@ -51,7 +51,6 @@ main()
 
 ########################## OPTIMIZED CODE   O(n) ###################################################
 
-
 class Student:
     
     def __init__(self,name,regno,AccessNumber,Course,HasEaten):
