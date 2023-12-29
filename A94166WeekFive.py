@@ -18,7 +18,7 @@ class DailyAttendance:
         self.dayofTheWeek=dayofTheWeek
         self.studentMealList=studentMealList
 
-#The algorithm searches through a nested list
+#The algorithm searches through a nested list:
 #When the student is found, the algorithm finds out if the student has not eaten
 def searchToMarkMealCard(cafeteriaList, registrationNumber, dayOfTheWeek):
 
