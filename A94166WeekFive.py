@@ -48,7 +48,6 @@ def main():
     #Write a function that will update the Cafeteria's registry to "hasEaten" attribute to True, when
 main()
 
-
 ########################## OPTIMIZED CODE   O(n) ###################################################
 
 class Student:
