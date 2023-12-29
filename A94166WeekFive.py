@@ -2,7 +2,7 @@
 #The first reverse engineering to run the code under O(n^2)
 #The second code under the first is the optimized code to run O(n)
 
-#Cafeteria Management Tool
+#Cafeteria Management Tool:
 #Mark meal cards.
 
 class Student:
